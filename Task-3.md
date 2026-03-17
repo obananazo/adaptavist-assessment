@@ -26,7 +26,8 @@ Architecture diagram created using *diagrams.net*
 
 ![task-3_architecture.png](./assets/task-3_arch.png)
 
->[!NOTE] Disclaimer: AI (claude) & duckduckgo was used to research here.
+> [!NOTE]
+> Disclaimer: AI (claude) & duckduckgo was used to research here.
 
 I'll be honest. I never heard the term "Tier 3 Architecture" so I had to research.
 
