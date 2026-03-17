@@ -61,7 +61,8 @@ Not only is it showing live stats, it even has a wonderful visual feedback showi
 
 Now depending on which resource is getting hogged we need a gameplan for each for this task.
 
->[!NOTE] Disclaimer: AI (Claude) & duckduckgo was used to research here.
+> [!NOTE]
+> Disclaimer: AI (Claude) & duckduckgo was used to research here.
 However I'm trying to apply my own thinking as much as possible.
 
 ### CPU & RAM
