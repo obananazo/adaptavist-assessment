@@ -14,7 +14,7 @@ SQL + brief explanation
 
 ## Let's go
 
-I haven't really touched SQL in a real environment ever. Only worked with Python libraries for DynamoDB so far. I'm aware of the basic syntax but this taks it out of my own expertise.
+I haven't really had to touch SQL in a real (production-ready) environment ever. Only worked with Python libraries for DynamoDB so far. I'm aware of the basic syntax but this task it out of my own expertise.
 
 However, with enough time I could learn some deeper database tricks and how they work under the hood (performance-wise) :-)
 
