@@ -1,6 +1,6 @@
 # adaptavist-assessment
 
-Interview Assessment taks for the Adaptavist Group
+Interview Assessment tasks for the Adaptavist Group.
 
 Each task was done in it's own markdown file.
 
