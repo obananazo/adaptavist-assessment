@@ -6,7 +6,7 @@ Write an Ansible playbook targeting a host group called `webservers`
 
 Verify:
 
-- Apache is installend & enabled on boot (common distro)
+- Apache is installed & enabled on boot (common distro)
 - `/var/www/html/index.html` is created from a template using a variable `site_name`
 - Apache only reloads when the template actually changes
 
