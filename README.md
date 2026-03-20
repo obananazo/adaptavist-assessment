@@ -14,6 +14,6 @@ Each task was done in it's own markdown file.
 - ![Task 5](Task-5.md)
 - ![Task 6](Task-6.md)
 - ![Task 7](Task-7.md)
-- ![Task 8](Task-8md)
+- ![Task 8](Task-8.md)
 - ![Task 9](Task-9.md)
 - ![Task 10](Task-10.md)
